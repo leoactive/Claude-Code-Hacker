@@ -14,3 +14,7 @@ Claude Code 实用技巧
 重点来了：/clear 清空上下文，将导出的文件名发给新Session的Claude，然后对它说：这是我们上一个Session的对话内容，请你发起Sub Agent，以能够让你在这个全新的Session中继续无缝工作为目标，构建交接文档，并且请你读取交接文档。
 
 如果你忘记了/export，可以使用/resume命令，回到上次的Session，然后执行/export/。
+
+## 如何让Claude Code像Claude网页版一样，具备搜索先行的回答问题的意识？
+
+[如何让Claude Code具备搜索先行的回答意识](./如何让Claude%20Code像Claude网页版一样，具备搜索先行的回答问题的意识？)
